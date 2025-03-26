@@ -1,0 +1,5 @@
+This is sample input
+to read from
+a file
+for advent of
+code 2023!
